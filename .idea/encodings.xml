@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/db-schema/camel_table.csv" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/module/animals/animal_class.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module/animals/domestic_animal.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module/animals/pethorse_animal.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module/animals/test.py" charset="UTF-8" />
+  </component>
+</project>
